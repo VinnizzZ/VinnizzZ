@@ -1,4 +1,4 @@
-### Hi there 👋
+### Estudande de ciências da computação
 
 <!--
 **VinnizzZ/VinnizzZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
